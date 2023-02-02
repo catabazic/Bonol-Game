@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642060258 source:c:\users\catalina\desktop\c++\lab\bonol\sfsa\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdbool.h>
+	<algorithm>
+	<string>
+	<stdlib.h>
+	<ctime>
+
